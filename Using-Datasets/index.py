@@ -22,7 +22,7 @@ class Index(object):
     def _generate_index(self):
         self.indices = OrderedDict()
         with open(self.country.file()) as file:
-            total = file.readline()  # Omit headers line
+            total = file.readline() 
             for line in file:
                 if line[0] not in self.indices:
                     self.indices[line[0]] = len(total)
