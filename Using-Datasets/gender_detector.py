@@ -1,13 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
-#
-# Copyright 2014 Marcos Vanetta
-#
-# Author: Marcos Vanetta <marcosvanetta@gmail.com>
-#
-
-
 import csv
 from country import Country
 from index import Index
