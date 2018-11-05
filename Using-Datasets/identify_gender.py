@@ -1,10 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov 11 08:37:50 2016
-
-@author: varshith
-"""
 print(''' 
+ind - India
 us - USA
 ar - Argentina
 uy - Uruguay
